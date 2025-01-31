@@ -1,8 +1,6 @@
-# the probabilisic extension of CAN Semantic Model from "Modelling and Verifying BDI Agents with Bigraphs. Xu et al"
-# intention_step and other non-deterministc rules (e.g. plan selection) are normal rules 
-# the rest of rules are instantenous rules
-# the idea is that when an Reduce is added, 
-# after the applications of all instantenous rules in the background, the next step is produced.  
+# the probabilisic extension of CAN Semantic Model using modelling language called Bigraph 
+# from "Quantitative Modelling and Analysis of BDI Agents. Xu et al". 
+# under strategy combination of (ProD, UD, PreD)
 
 ## CONTROLS
 
